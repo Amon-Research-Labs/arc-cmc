@@ -14,6 +14,9 @@
 📄 .gitignore
   Added: 2025-09-16 — initial commit
 
+📄 CHANGELOG.md
+  Added: 2025-10-22 — Initial commimt adjustment
+
 📄 CODEOFCONDUCT.md
   Added: 2025-09-16 — initial commit
 
@@ -25,6 +28,9 @@
 
 📄 LICENSE.md
   Added: 2025-09-16 — initial commit
+
+📄 MANIFEST.md
+  Added: 2025-10-22 — Initial commimt adjustment
 
 📄 MISSION.md
   Added: 2025-09-16 — initial commit
@@ -85,11 +91,11 @@
 
 ## Recent Changes (Last 5)
 
+- 2025-10-22 — Added CHANGELOG.md — "Initial commimt adjustment"
+- 2025-10-22 — Added MANIFEST.md — "Initial commimt adjustment"
 - 2025-10-22 — Added cmc-plans/PitchSheet — "Initial commimt adjustment"
 - 2025-10-22 — Added cmc-plans/README.md — "Initial commimt adjustment"
 - 2025-10-22 — Added cmc-plans/White Paper: Base Modal Framework and the Coherence Modal Cross-Interferometer — "Initial commimt adjustment"
-- 2025-10-22 — Added cmc-plans/adc_acquire.py — "Initial commimt adjustment"
-- 2025-10-22 — Added cmc-plans/arl-cmci — "Initial commimt adjustment"
 
 ## Full File History
 
@@ -105,6 +111,9 @@
 📄 .gitignore
   Added: 2025-09-16 — initial commit
 
+📄 CHANGELOG.md
+  Added: 2025-10-22 — Initial commimt adjustment
+
 📄 CODEOFCONDUCT.md
   Added: 2025-09-16 — initial commit
 
@@ -116,6 +125,9 @@
 
 📄 LICENSE.md
   Added: 2025-09-16 — initial commit
+
+📄 MANIFEST.md
+  Added: 2025-10-22 — Initial commimt adjustment
 
 📄 MISSION.md
   Added: 2025-09-16 — initial commit
